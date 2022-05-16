@@ -22,5 +22,5 @@ Step 2: Train the network with salicon dataset (default)
 Step 3: Test on Museum VR image data. This will generate visual saliency maps.
 >> python main.py test -d salicon -p [virtualRealityImageDataPath]
   
-##Dataset Acknowledgement 
+## Dataset Acknowledgement 
 "M. Khan and J. Chakareski. NJIT 6DOF VR Navigation Dataset. 2020. https://www.jakov.org.",
